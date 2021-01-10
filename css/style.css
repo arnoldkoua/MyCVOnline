@@ -1,0 +1,54 @@
+body {
+    font-family: 'Lora', serif;
+    text-align: justify;
+}
+
+.contenu {
+    /* width: 800px; */
+    width: 60%;
+    margin: 0 auto;
+}
+
+.noprint {
+    float: left;
+    padding: 0px;
+    /* border: 3px #7aa solid; */
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.entete {
+    background-color: #add;
+    text-align: center;
+    font-weight: bold;
+    font-size: 140%;
+    padding: 10px;
+}
+
+.chapitres {
+    padding: 10px;
+}
+
+.limef {
+    list-style-type: none;
+}
+
+
+/* .competencemef li {
+    list-style-type: square;
+} */
+
+.details {
+    /* background-color: aquamarine; */
+}
+
+.chapitres hr {
+    border: solid;
+    border-color: blue;
+}
+
+.chapitres h3 {
+    text-align: center;
+    margin: 10px;
+}
